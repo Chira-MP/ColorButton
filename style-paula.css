@@ -1,0 +1,9 @@
+.btn-primary
+{
+    background-color: indigo;
+    color: #ffffff;
+    padding: 15px;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
