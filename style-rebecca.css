@@ -1,0 +1,8 @@
+.btn-secondary
+{
+    background-color: rgb(95, 100, 100);
+    padding: 15px;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
