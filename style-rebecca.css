@@ -28,3 +28,14 @@
     
 
 }
+
+.btn-secondary-round
+{
+    background-color: rgb(246, 235, 235);
+    color: #222020;
+    padding: 15px;
+    border-width: 2px;
+    border-color: rgb(65, 65, 69);
+    border-radius: 35px;
+    font-weight: bold;
+}
