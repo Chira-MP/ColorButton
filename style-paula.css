@@ -43,3 +43,14 @@ body{
     border-radius: 5px;
     font-weight: bold;
 }
+
+.btn-primary-round
+{
+    background-color: white;
+    color: indigo;
+    padding: 15px;
+    border-width: 2px;
+    border-color: indigo;
+    border-radius: 54px;
+    font-weight: bold;
+}
