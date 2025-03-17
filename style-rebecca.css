@@ -1,8 +1,17 @@
 .btn-secondary
 {
-    background-color: rgb(95, 100, 100);
+    background-color: rgb(76, 165, 165);
     padding: 15px;
     border: none;
     border-radius: 5px;
+    font-weight: bold;
+}
+.btn-secondary-pill
+{
+    background-color: rgb(89, 197, 197);
+    color: #ffffff;
+    padding: 15px;
+    border: none;
+    border-radius: 35px;
     font-weight: bold;
 }
